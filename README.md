@@ -84,4 +84,4 @@ project_lakehouse_telemetria_ele      (catálogo)
 
 **Ramon Sieia**: bombeiro de aeródromo chefe, engenheiro eletricista e pós-graduado em engenharia de dados, em transição de carreira para dados e energia.
 
-- LinkedIn: `<link do seu perfil>`
+- LinkedIn: `https://www.linkedin.com/in/ramon-sieia-medeiros/`
