@@ -45,8 +45,8 @@ flowchart LR
 |---|---|---|---|
 | 1 | [`Fase1-camada_bronze`](./Fase1-camada_bronze) | Geração de dados, ingestão incremental e diagnóstico de qualidade | ✅ Concluída |
 | 2 | [`Fase2-camada_silver`](./Fase2-camada_silver) | Tipagem, deduplicação, tratamento de nulos e sentinelas, SQL avançado | ✅ Concluída |
-| 3 | `Fase3-camada_gold` | Modelagem para negócio, indicadores e visão por ativo | ⬜ Planejada |
-| 4 | `Fase4-orquestracao_qualidade` | Workflows automatizados e testes de Data Quality | ⬜ Planejada |
+| 3 | [`Fase3-camada_gold`](./Fase3-camada_gold) | Modelagem para negócio, indicadores e visão por ativo | ✅ Concluída |
+| 4 | `Fase4-orquestracao_qualidade` | Workflows automatizados e testes de Data Quality | ⬜ Próxima |
 | 5 | `Fase5-streaming_observabilidade` | Dados em tempo quase real e monitoramento do pipeline | ⬜ Planejada |
 | 6 | `Fase6-polimento` | Documentação final, dashboard e apresentação do case | ⬜ Planejada |
 
@@ -56,7 +56,7 @@ Geração de um dataset sintético (7 dias, 50 transformadores, mais de 1 milhã
 ### Fase 2: Camada Silver ✅
 Conversão de tipos (timestamp e numéricos), remoção de duplicados por linha completa, tratamento de nulos e do valor sentinela, sinalização de picos de temperatura e regras de qualidade. Uso de funções de janela em SQL.
 
-### Fase 3: Camada Gold
+### Fase 3: Camada Gold ✅
 Tabelas analíticas para o negócio: perfil de carga por transformador, indicadores de temperatura e alarmes, e ranking de ativos que pedem atenção.
 
 ### Fase 4: Orquestração e Data Quality
