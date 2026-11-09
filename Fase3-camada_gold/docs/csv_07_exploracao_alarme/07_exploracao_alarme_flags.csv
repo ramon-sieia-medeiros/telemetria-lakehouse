@@ -1,0 +1,4 @@
+flag,linhas_com_flag,pct_alarme_com_flag,pct_alarme_sem_flag,lift
+temp_pico,3150,100,0,null
+tensao_ausente,10500,0.276,0.3,0.92
+corrente_sentinela,2100,0.333,0.3,1.11

@@ -1,0 +1,16 @@
+col_name,data_type,comment
+row_hash,string,null
+device_id,string,null
+event_ts,timestamp,null
+tensao_v,double,null
+corrente_a,double,null
+temperatura_c,double,null
+alarme,string,null
+corrente_sentinela,boolean,null
+tensao_ausente,boolean,null
+temp_pico,boolean,null
+data_evento,date,null
+_ingest_ts,timestamp,null
+_source_file,string,null
+# Clustering Information,,
+# col_name,data_type,comment

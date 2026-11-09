@@ -1,0 +1,11 @@
+tabela,metrica,silver,gold,status
+dispositivo_hora,leituras,1050000,1050000,OK
+dispositivo_hora,picos,3150,3150,OK
+dispositivo_hora,alarmes,3150,3150,OK
+dispositivo_hora,tensao_ausente,10500,10500,OK
+dispositivo_hora,corrente_sentinela,2100,2100,OK
+dispositivo_dia,leituras,1050000,1050000,OK
+dispositivo_dia,picos,3150,3150,OK
+dispositivo_dia,alarmes,3150,3150,OK
+dispositivo_dia,tensao_ausente,10500,10500,OK
+dispositivo_dia,corrente_sentinela,2100,2100,OK

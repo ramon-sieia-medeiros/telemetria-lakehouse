@@ -1,0 +1,11 @@
+posicao,device_id,nivel,z_max,sinal_dominante,z_picos,z_tensao,z_sentinela,pct_picos,pct_picos_ic95_min,pct_picos_ic95_max
+1,TRF-027,dentro do esperado,2.635,tensão ausente,2.145,2.635,0.927,0.381,0.307,0.455
+2,TRF-043,dentro do esperado,2.219,tensão ausente,0.252,2.219,0,0.31,0.236,0.383
+3,TRF-040,dentro do esperado,2.162,corrente sentinela,1.009,0.139,2.162,0.338,0.264,0.412
+4,TRF-036,dentro do esperado,2.081,tensão ausente,1.64,2.081,1.236,0.362,0.288,0.436
+5,TRF-046,dentro do esperado,1.803,tensão ausente,0.505,1.803,0,0.319,0.245,0.393
+6,TRF-042,dentro do esperado,1.766,sobretemperatura,1.766,0.624,0.618,0.367,0.293,0.441
+7,TRF-049,dentro do esperado,1.766,sobretemperatura,1.766,1.387,0.618,0.367,0.293,0.441
+8,TRF-029,dentro do esperado,1.665,tensão ausente,1.514,1.665,1.545,0.357,0.283,0.431
+9,TRF-006,dentro do esperado,1.545,corrente sentinela,0.631,0.277,1.545,0.324,0.25,0.398
+10,TRF-011,dentro do esperado,1.39,corrente sentinela,-1.262,-2.15,1.39,0.252,0.178,0.326

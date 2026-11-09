@@ -1,0 +1,7 @@
+dispositivo_hora: 8400 | dispositivo_dia: 350 | perfil_horario: 24
+
+ranking OK | limite z = 3.403 | z máximo observado = 2.635 | ativos em atenção = 0
+
+antes : {'dispositivo_hora': 8400, 'dispositivo_dia': 350, 'perfil_horario': 24, 'ranking_risco_ativos': 50, 'soma_leituras_hora': 1050000}
+depois: {'dispositivo_hora': 8400, 'dispositivo_dia': 350, 'perfil_horario': 24, 'ranking_risco_ativos': 50, 'soma_leituras_hora': 1050000}
+Idempotência OK
